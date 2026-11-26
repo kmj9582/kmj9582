@@ -41,8 +41,10 @@
 ## 🌱 오늘의 잔디
 > 꿈과 희망 따위는 없는 잔디밭
 
-- **[`gugudan.py`](./gugudan.py)** : 몇 단을 입력할지 물어보고 해당 숫자의 구구단을 출력해주는 함수
-- **[`turtleturtle.py`](./turtleturtle.py)** : 터틀 그래픽으로 내가 그릴 수 있는 가장 멋있는 도형을 그리는 코드
+| 파일명 | 설명 |
+| :--- | :--- |
+| [`gugudan.py`](./gugudan.py) | 몇 단을 입력할지 물어보고 입력받은 숫자의 구구단을 출력해주는 함수 |
+| [`turtleturtle.py`](./turtleturtle.py) | Python `turtle` 모듈을 활용해 내가 그릴 수 있는 가장 멋있는 도형을 그리는 코드 |
 
 <!-- 하단 푸터 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:1a1b27&height=120&section=footer" width="100%"/>
