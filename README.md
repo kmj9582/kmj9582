@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 상단 웨이브 배너 (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6c5ce7&height=200§ion=header&text=✨꿈과%20희망이%20가득한%20Git%20Repository✨&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=하지만%20만든%20사람에게는%20존재하지%20않는%20꿈과%20희망&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=180§ion=header&text=✨꿈과%20희망이%20가득한%20Git%20Repository✨&fontSize=28&fontColor=000000&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
 
@@ -26,7 +26,7 @@
 <br/>
 
 ## 🛠️ Inventory & Tech Stack
-> 주로 사용하는 무기와 도구들입니다. (필요에 따라 수정/추가하세요!)
+> 잘 사용하고 싶은 무기와 도구들
 
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -42,8 +42,8 @@
 > ※ 아래 링크의 `본인깃허브아이디`를 실제 아이디로 변경해주세요!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브아이디&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kmj9582&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj9582&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
 
 <div align="center">
   <!-- 3D 또는 모던한 잔디 그래프 (본인깃허브아이디 수정 필수) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=본인깃허브아이디&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmj9582&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <!-- 하단 푸터 배너 -->
