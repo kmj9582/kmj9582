@@ -46,5 +46,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmj9582&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-<!-- 하단 푸터 배너 (웨이브 반전 적용) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:1a1b27&height=100§ion=footer&reversal=true" width="100%"/>
+<!-- 하단 푸터 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:1a1b27&height=120&section=footer" width="100%"/>
