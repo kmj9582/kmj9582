@@ -26,7 +26,7 @@
 <br/>
 
 ## 🛠️ Inventory & Tech Stack
-> 잘 사용하고 싶은 무기와 도구들
+> 언젠가는 잘 사용하게 될 무기와 도구들
 
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -38,13 +38,11 @@
 
 <br/>
 
-## 🌱 오늘의 잔디 (Contribution Graph)
-> 푸르른 잔디밭을 꿈꾸며 오늘도 커밋합니다.
+## 🌱 오늘의 잔디
+> 꿈과 희망 따위는 없는 잔디밭
 
-<div align="center">
-  <!-- 3D 또는 모던한 잔디 그래프 (본인깃허브아이디 수정 필수) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmj9582&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
+- **[`gugudan.py`](./gugudan.py)** : 몇 단을 입력할지 물어보고 해당 숫자의 구구단을 출력해주는 함수
+- **[`turtleturtle.py`](./turtleturtle.py)** : 터틀 그래픽으로 내가 그릴 수 있는 가장 멋있는 도형을 그리는 코드
 
 <!-- 하단 푸터 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:1a1b27&height=120&section=footer" width="100%"/>
