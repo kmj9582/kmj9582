@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 상단 웨이브 배너 (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=180§ion=header&text=✨꿈과%20희망이%20가득한%20Git%20Repository✨&fontSize=28&fontColor=000000&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6c5ce7&height=260§ion=header&text=✨꿈과%20희망이%20가득한%20Git%20Repository✨&fontSize=28&fontColor=000000&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
 
