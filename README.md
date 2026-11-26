@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- 상단 웨이브 배너 (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6c5ce7&height=260§ion=header&text=✨꿈과%20희망이%20가득한%20Git%20Repository✨&fontSize=28&fontColor=000000&animation=fadeIn&fontAlignY=45" width="100%"/>
+<!-- 상단 웨이브 배너 (배경) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6c5ce7&height=300§ion=header" width="100%"/>
+
+<!-- 하얀색 테두리가 적용된 검정 글씨 (외부 SVG 활용) -->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=900&size=28&pause=1000&color=000000¢er=true&vCenter=true&width=700&height=60&lines=✨꿈과+희망이+가득한+Git+Repository✨" alt="타이틀" style="margin-top: -180px;"/>
 
 </div>
 
